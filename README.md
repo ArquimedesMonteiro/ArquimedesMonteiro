@@ -3,9 +3,9 @@
 **DevOps Apprentice at Bosch Digital** — Linux, Docker, Kubernetes, GCP & Azure
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArquimedesMonteiro&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Sumaré%2C%20SP%20%7C%20Brazil-informational?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-success?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ArquimedesMonteiro&label=Profile+views&color=6B8E23&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Sumaré%2C%20SP%20%7C%20Brazil-6B8E23?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-6B8E23?style=flat" />
 </p>
 
 ---
@@ -45,6 +45,6 @@ I'm a DevOps apprentice at Bosch Digital, working through a structured technical
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arquimedesmonteiro">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6B8E23?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
