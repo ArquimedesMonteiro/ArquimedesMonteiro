@@ -20,3 +20,4 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
           filename: github-metrics.svg
+          config_colors: 6B8E23
