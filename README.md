@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-6B8E23?style=flat" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3" width="100%" />
+---
 
 ## About
 
 I'm a DevOps apprentice at Bosch Digital, working through a structured technical trail covering Linux, Docker, Kubernetes, and cloud platforms (GCP and Azure). My background is in software development — Python, Java, and .NET — and I'm currently transitioning toward Cloud/DevOps engineering, with the goal of working internationally.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3" width="100%" />
+---
 
 ## Stack
 
@@ -34,7 +34,7 @@ I'm a DevOps apprentice at Bosch Digital, working through a structured technical
 **Systems & Tools**
 <p><img src="https://skillicons.dev/icons?i=linux,git,githubactions,bash" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3" width="100%" />
+---
 
 ## Background
 
@@ -43,7 +43,7 @@ I'm a DevOps apprentice at Bosch Digital, working through a structured technical
 - Hands-on Kubernetes practice: on-premises cluster setup with kubeadm, containerd, and Calico
 - Currently studying toward GCP and Azure fundamentals
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3" width="100%" />
+---
 
 ## Metrics
 
@@ -51,7 +51,7 @@ I'm a DevOps apprentice at Bosch Digital, working through a structured technical
   <img src="https://raw.githubusercontent.com/ArquimedesMonteiro/ArquimedesMonteiro/main/github-metrics.svg" alt="metrics" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3" width="100%" />
+---
 
 ## Contact
 
@@ -60,5 +60,3 @@ I'm a DevOps apprentice at Bosch Digital, working through a structured technical
     <img src="https://img.shields.io/badge/LinkedIn-6B8E23?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=100&section=footer" />
