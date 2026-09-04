@@ -5,7 +5,6 @@ on:
     - cron: "0 3 * * *"
   push:
     branches: [main]
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,7 +16,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ArquimedesMonteiro
           template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
+          base: header, activity
           filename: github-metrics.svg
           config_colors: 6B8E23
